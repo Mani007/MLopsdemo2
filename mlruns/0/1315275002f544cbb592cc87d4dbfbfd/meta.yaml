@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Mohnish/Documents/OPScraft/MLopsdemo2/mlruns/0/1315275002f544cbb592cc87d4dbfbfd/artifacts
+end_time: 1701106171256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1315275002f544cbb592cc87d4dbfbfd
+run_name: dazzling-tern-895
+run_uuid: 1315275002f544cbb592cc87d4dbfbfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701106165369
+status: 3
+tags: []
+user_id: Mohnish
